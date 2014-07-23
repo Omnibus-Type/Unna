@@ -92,7 +92,7 @@ Latin Extended-A   | U+0100-U+017F
 **12 Jul 2011 (Jorge de Buen U.) Unna  v2.002**
 - Initial release under SIL Open Font License  
 This release supports the following:  
-Unicode ranges: Latin-1
+- Unicode ranges: Latin-1
 
 ### Acknowledgements
 
