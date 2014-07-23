@@ -16,7 +16,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 ### Designers
 
 * Jorge de Buen
-* Pablo Cosgaya and Nicolas Silva [italic verison]
+* Pablo Cosgaya and Nicolas Silva [italic version]
 
 ### License
 
