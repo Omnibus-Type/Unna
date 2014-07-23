@@ -86,8 +86,8 @@ Latin Extended-A   | U+0100-U+017F
       * Single Substitution
       * Ligature Substitution
   - GPOS:
-    * cpsp Capital Spacing
-    * kern Horizontal Kerning (triplets)
+    * **cpsp** Capital Spacing
+    * **kern** Horizontal Kerning (triplets)
 
 **12 Jul 2011 (Jorge de Buen U.) Unna  v2.002**
 - Initial release under SIL Open Font License  
