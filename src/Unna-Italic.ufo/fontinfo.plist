@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>861</integer>
+	<key>capHeight</key>
+	<integer>597</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2011-2014, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Unna'</string>
+	<key>descender</key>
+	<integer>-269</integer>
+	<key>familyName</key>
+	<string>Unna</string>
+	<key>italicAngle</key>
+	<real>-8</real>
+	<key>note</key>
+	<string>lowercase designed by Nicolas Silva</string>
+	<key>openTypeHeadCreated</key>
+	<string>2014/04/14 16:27:13</string>
+	<key>openTypeNameDescription</key>
+	<string>Unna is the surname of the mother of its type designer, Jorge de Buen. Her soft look is expressed through delicated serifs and strong stems, that accentuating the typical neoclassical vertical texture. </string>
+	<key>openTypeNameDesigner</key>
+	<string>Jorge de Buen U.</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>www.omnibus-type.com</string>
+	<key>openTypeNameLicense</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Omnibus-Type </string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>www.omnibus-type.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Unna</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Italic</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>420</integer>
+		<integer>430</integer>
+		<integer>537</integer>
+		<integer>552</integer>
+		<integer>597</integer>
+		<integer>608</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-245</integer>
+		<integer>-239</integer>
+		<integer>-10</integer>
+		<integer>0</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>32</integer>
+		<integer>28</integer>
+		<integer>27</integer>
+		<integer>55</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>82</integer>
+		<integer>98</integer>
+		<integer>91</integer>
+		<integer>88</integer>
+	</array>
+	<key>postscriptWeightName</key>
+	<string>Regular</string>
+	<key>styleName</key>
+	<string>Italic</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>2</integer>
+	<key>versionMinor</key>
+	<integer>5</integer>
+	<key>xHeight</key>
+	<integer>420</integer>
+</dict>
+</plist>

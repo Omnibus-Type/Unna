@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.narrow" format="1">
+  <advance width="340"/>
+  <outline>
+    <contour>
+      <point x="170" y="584" type="line"/>
+      <point x="268" y="506" type="line" smooth="yes"/>
+      <point x="277" y="499"/>
+      <point x="289" y="493"/>
+      <point x="297" y="493" type="curve" smooth="yes"/>
+      <point x="301" y="493"/>
+      <point x="305" y="496"/>
+      <point x="305" y="500" type="curve" smooth="yes"/>
+      <point x="305" y="503"/>
+      <point x="294" y="515"/>
+      <point x="279" y="533" type="curve" smooth="yes"/>
+      <point x="185" y="644" type="line"/>
+      <point x="178" y="653"/>
+      <point x="172" y="659"/>
+      <point x="170" y="659" type="curve" smooth="yes"/>
+      <point x="168" y="659"/>
+      <point x="162" y="653"/>
+      <point x="155" y="644" type="curve"/>
+      <point x="61" y="533" type="line" smooth="yes"/>
+      <point x="46" y="515"/>
+      <point x="35" y="503"/>
+      <point x="35" y="500" type="curve" smooth="yes"/>
+      <point x="35" y="496"/>
+      <point x="39" y="493"/>
+      <point x="43" y="493" type="curve" smooth="yes"/>
+      <point x="51" y="493"/>
+      <point x="63" y="499"/>
+      <point x="72" y="506" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="170" y="420" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

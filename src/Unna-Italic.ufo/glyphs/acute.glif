@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="266"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="290" y="635"/>
+      <point x="260" y="653"/>
+      <point x="236" y="653" type="curve" smooth="yes"/>
+      <point x="221" y="653"/>
+      <point x="216" y="648"/>
+      <point x="201" y="632" type="curve" smooth="yes"/>
+      <point x="94" y="524" type="line" smooth="yes"/>
+      <point x="84" y="514"/>
+      <point x="74" y="505"/>
+      <point x="74" y="500" type="curve" smooth="yes"/>
+      <point x="74" y="496"/>
+      <point x="78" y="493"/>
+      <point x="88" y="493" type="curve" smooth="yes"/>
+      <point x="96" y="493"/>
+      <point x="105" y="499"/>
+      <point x="109" y="502" type="curve" smooth="yes"/>
+      <point x="280" y="615" type="line" smooth="yes"/>
+      <point x="284" y="618"/>
+      <point x="290" y="622"/>
+      <point x="290" y="627" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="131" y="420" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
