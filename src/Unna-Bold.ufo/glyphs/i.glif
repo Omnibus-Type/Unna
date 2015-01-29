@@ -38,6 +38,9 @@
       <point x="181" y="662"/>
       <point x="131" y="662" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="220" y="13" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>

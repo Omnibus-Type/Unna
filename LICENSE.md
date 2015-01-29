@@ -1,7 +1,6 @@
-Copyright (c) 2011, Jorge de Buen,  
-Copyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),  
-Copyright (c) 2010-2014, Omnibus-Type (www.omnibus-type.com|omnibus.type@gmail.com),  
-with Reserved Font Name **Unna**.
+Copyright (c) 2011, Jorge de Buen,
+Copyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),
+Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com).
 
 *This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

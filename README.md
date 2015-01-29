@@ -5,7 +5,7 @@
 
 [Omnibus Type](http://omnibus-type.com/) presents a new font: Unna. Her soft look is expressed through delicated serifs and strong stems, that accentuating the typical neoclassical vertical texture. Unna is the surname of the mother of the type designer, Jorge de Buen.
 
-![Sample of Unna Family.](Unna.gif "Unna Family")
+![Sample of Unna Family.](SRC/Unna.gif "Unna Family")
 
 ####Unna Family contains:
 * regular/italic
@@ -20,7 +20,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2011-2014, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Unna'.
+Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com).
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -44,6 +44,15 @@ This information should be distributed along with the Unna fonts and any derivat
 * Mac Roman
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**28 Jan 2015 (Nicolas Silva) Unna regular, italic, bold and bolditalic v.2.006**  
+- Removed Reserve Font Name from the license
+- Name tables adjusted
+- fsType Installable Mode
+- Set Panose values
+- Updates CFF and TTF hinting
+- Added Family Alignment Zones
+- New Verical Metrics
 
 **11 Jun 2014 (Nicolas Silva) Unna regular, italic, bold and bolditalic v.2.005**
 - Redrew numbers and other glyphs:  

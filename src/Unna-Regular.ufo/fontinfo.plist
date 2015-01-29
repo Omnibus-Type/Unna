@@ -3,33 +3,35 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>861</integer>
+	<integer>730</integer>
 	<key>capHeight</key>
 	<integer>597</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2011-2014, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Unna'</string>
+	<string>Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)</string>
 	<key>descender</key>
-	<integer>-269</integer>
+	<integer>-245</integer>
 	<key>familyName</key>
 	<string>Unna</string>
-	<key>italicAngle</key>
-	<real>0.0</real>
+	<key>fsType</key>
+	<array>
+	</array>
 	<key>openTypeHeadCreated</key>
-	<string>2014/04/14 16:27:16</string>
+	<string>2015/01/28 20:12:28</string>
 	<key>openTypeNameDescription</key>
 	<string>Unna is the surname of the mother of its type designer, Jorge de Buen. Her soft look is expressed through delicated serifs and strong stems, that accentuating the typical neoclassical vertical texture. </string>
 	<key>openTypeNameDesigner</key>
 	<string>Jorge de Buen U.</string>
 	<key>openTypeNameDesignerURL</key>
-	<string>www.omnibus-type.com</string>
+	<string>http://www.omnibus-type.com</string>
 	<key>openTypeNameLicense</key>
-	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<string>This Font Software is licensed under the SIL Open Font License
+Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameManufacturer</key>
 	<string>Omnibus-Type </string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>www.omnibus-type.com</string>
+	<string>http://www.omnibus-type.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Unna</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -40,19 +42,29 @@
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>420</integer>
-		<integer>430</integer>
-		<integer>537</integer>
-		<integer>552</integer>
-		<integer>597</integer>
-		<integer>607</integer>
-	</array>
-	<key>postscriptOtherBlues</key>
-	<array>
 		<integer>-245</integer>
 		<integer>-239</integer>
 		<integer>-10</integer>
 		<integer>0</integer>
+		<integer>420</integer>
+		<integer>430</integer>
+		<integer>597</integer>
+		<integer>607</integer>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+		<integer>0</integer>
+		<integer>20</integer>
+		<integer>420</integer>
+		<integer>440</integer>
+		<integer>597</integer>
+		<integer>613</integer>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
@@ -68,8 +80,8 @@
 		<integer>91</integer>
 		<integer>102</integer>
 	</array>
-	<key>postscriptWeightName</key>
-	<string>Normal</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>unitsPerEm</key>
@@ -77,7 +89,7 @@
 	<key>versionMajor</key>
 	<integer>2</integer>
 	<key>versionMinor</key>
-	<integer>5</integer>
+	<integer>6</integer>
 	<key>xHeight</key>
 	<integer>420</integer>
 </dict>

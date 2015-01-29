@@ -34,7 +34,7 @@
       <point x="311" y="88" type="line"/>
     </contour>
     <component base="fraction" xOffset="194"/>
-    <component base="onesuperior" xOffset="29" yOffset="-71"/>
+    <component base="uni00B9" xOffset="29" yOffset="-71"/>
   </outline>
   <lib>
     <dict>

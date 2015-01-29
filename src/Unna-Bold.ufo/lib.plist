@@ -2,6 +2,35 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>GSDimensionPlugin.Dimensions</key>
+	<dict>
+		<key>B6E503DC-E239-4192-86FE-173F98580939</key>
+		<dict>
+	</dict>
+		<key>F8700386-2E77-47FF-AAB4-DBF3F3ACCAC4</key>
+		<dict>
+	</dict>
+		<key>UUID0</key>
+		<dict>
+	</dict>
+	</dict>
+	<key>com.schriftgestaltung.fontMaster.userData</key>
+	<dict>
+		<key>GSOffsetHorizontal</key>
+		<integer>22</integer>
+		<key>GSOffsetMakeStroke</key>
+		<integer>1</integer>
+		<key>GSOffsetVertical</key>
+		<integer>20</integer>
+	</dict>
+	<key>com.schriftgestaltung.fontMasterID</key>
+	<string>F8700386-2E77-47FF-AAB4-DBF3F3ACCAC4</string>
+	<key>com.schriftgestaltung.useNiceNames</key>
+	<integer>1</integer>
+	<key>com.schriftgestaltung.weight</key>
+	<string>Bold</string>
+	<key>com.schriftgestaltung.weightValue</key>
+	<real>500</real>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -86,8 +115,8 @@
 		<string>Scommaaccent</string>
 		<string>T</string>
 		<string>Tcaron</string>
-		<string>Tcedilla</string>
-		<string>Tcommaaccent</string>
+		<string>uni0162</string>
+		<string>uni021A</string>
 		<string>U</string>
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
@@ -152,12 +181,13 @@
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
+		<string>i.loclTRK</string>
 		<string>igrave</string>
 		<string>ij</string>
 		<string>imacron</string>
 		<string>iogonek</string>
 		<string>j</string>
-		<string>dotlessj</string>
+		<string>uni0237</string>
 		<string>k</string>
 		<string>kcommaaccent</string>
 		<string>l</string>
@@ -197,8 +227,8 @@
 		<string>germandbls</string>
 		<string>t</string>
 		<string>tcaron</string>
-		<string>tcedilla</string>
-		<string>tcommaaccent</string>
+		<string>uni0163</string>
+		<string>uni021B</string>
 		<string>u</string>
 		<string>uacute</string>
 		<string>ucircumflex</string>
@@ -224,10 +254,11 @@
 		<string>zacute</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
-		<string>fi</string>
-		<string>fl</string>
-		<string>idotaccent</string>
 		<string>f.ss01</string>
+		<string>uniFB01</string>
+		<string>uniFB02</string>
+		<string>ordfeminine</string>
+		<string>ordmasculine</string>
 		<string>Delta</string>
 		<string>Omega</string>
 		<string>mu</string>
@@ -246,13 +277,12 @@
 		<string>onehalf</string>
 		<string>onequarter</string>
 		<string>threequarters</string>
-		<string>ordfeminine</string>
-		<string>ordmasculine</string>
-		<string>onesuperior</string>
-		<string>twosuperior</string>
-		<string>threesuperior</string>
+		<string>uni00B9</string>
+		<string>uni00B2</string>
+		<string>uni00B3</string>
 		<string>asterisk</string>
 		<string>backslash</string>
+		<string>periodcentered</string>
 		<string>bullet</string>
 		<string>colon</string>
 		<string>comma</string>
@@ -261,7 +291,6 @@
 		<string>exclamdown</string>
 		<string>numbersign</string>
 		<string>period</string>
-		<string>periodcentered</string>
 		<string>question</string>
 		<string>questiondown</string>
 		<string>quotedbl</string>
@@ -278,7 +307,7 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
-		<string>softhyphen</string>
+		<string>uni00AD</string>
 		<string>guillemotleft</string>
 		<string>guillemotright</string>
 		<string>guilsinglleft</string>
@@ -290,30 +319,30 @@
 		<string>quoteright</string>
 		<string>quotesinglbase</string>
 		<string>space</string>
-		<string>nbspace</string>
-		<string>florin</string>
+		<string>uni00A0</string>
 		<string>cent</string>
 		<string>currency</string>
 		<string>dollar</string>
-		<string>euro</string>
+		<string>Euro</string>
+		<string>florin</string>
 		<string>sterling</string>
 		<string>yen</string>
-		<string>Ohm</string>
+		<string>uni2126</string>
 		<string>approxequal</string>
 		<string>asciitilde</string>
-		<string>bulletoperator</string>
+		<string>uni2219</string>
 		<string>divide</string>
-		<string>divisionslash</string>
+		<string>uni2215</string>
 		<string>equal</string>
 		<string>greater</string>
 		<string>greaterequal</string>
-		<string>increment</string>
+		<string>uni2206</string>
 		<string>infinity</string>
 		<string>integral</string>
 		<string>less</string>
 		<string>lessequal</string>
 		<string>logicalnot</string>
-		<string>micro</string>
+		<string>uni00B5</string>
 		<string>minus</string>
 		<string>multiply</string>
 		<string>notequal</string>
@@ -325,24 +354,22 @@
 		<string>product</string>
 		<string>radical</string>
 		<string>summation</string>
-		<string>ampersand</string>
-		<string>at</string>
+		<string>lozenge</string>
 		<string>bar</string>
 		<string>brokenbar</string>
-		<string>copyright</string>
-		<string>dagger</string>
-		<string>daggerdbl</string>
-		<string>degree</string>
-		<string>estimated</string>
-		<string>literSign</string>
+		<string>at</string>
+		<string>ampersand</string>
 		<string>paragraph</string>
+		<string>copyright</string>
 		<string>registered</string>
 		<string>section</string>
 		<string>trademark</string>
+		<string>degree</string>
+		<string>estimated</string>
+		<string>uni2113</string>
 		<string>asciicircum</string>
-		<string>lozenge</string>
-		<string>commaaccent</string>
-		<string>firsttonechinese</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -369,24 +396,9 @@
 		<string>ring.case</string>
 		<string>tilde.case</string>
 		<string>circumflex.narrow</string>
+		<string>uni0326</string>
+		<string>uni02C9</string>
 		<string>uniE000</string>
 	</array>
-	<key>com.schriftgestaltung.useNiceNames</key>
-	<true/>
-	<key>com.schriftgestaltung.weight</key>
-	<string>Bold</string>
-	<key>com.schriftgestaltung.weightValue</key>
-	<real>500</real>
-	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>F8700386-2E77-47FF-AAB4-DBF3F3ACCAC4</string>
-	<key>com.schriftgestaltung.fontMaster.userData</key>
-	<dict>
-		<key>GSOffsetVertical</key>
-		<string>20</string>
-		<key>GSOffsetHorizontal</key>
-		<string>22</string>
-		<key>GSOffsetMakeStroke</key>
-		<string>1</string>
-	</dict>
 </dict>
 </plist>

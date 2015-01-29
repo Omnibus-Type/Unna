@@ -41,8 +41,8 @@
 	<array>
 		<string>T</string>
 		<string>Tcaron</string>
-		<string>Tcedilla</string>
-		<string>Tcommaaccent</string>
+		<string>uni0162</string>
+		<string>uni021A</string>
 	</array>
 	<key>@MMK_L_U</key>
 	<array>
@@ -178,8 +178,8 @@
 	<array>
 		<string>T</string>
 		<string>Tcaron</string>
-		<string>Tcedilla</string>
-		<string>Tcommaaccent</string>
+		<string>uni0162</string>
+		<string>uni021A</string>
 	</array>
 	<key>@MMK_R_U</key>
 	<array>
@@ -291,8 +291,8 @@
 	<array>
 		<string>t</string>
 		<string>tcaron</string>
-		<string>tcedilla</string>
-		<string>tcommaaccent</string>
+		<string>uni0163</string>
+		<string>uni021B</string>
 	</array>
 	<key>@MMK_R_u</key>
 	<array>
@@ -322,72 +322,6 @@
 		<string>ycircumflex</string>
 		<string>ydieresis</string>
 		<string>ygrave</string>
-	</array>
-	<key>Uppercase</key>
-	<array>
-		<string>A</string>
-		<string>Aacute</string>
-		<string>Acircumflex</string>
-		<string>Adieresis</string>
-		<string>Agrave</string>
-		<string>Aring</string>
-		<string>Atilde</string>
-		<string>AE</string>
-		<string>B</string>
-		<string>C</string>
-		<string>Ccedilla</string>
-		<string>D</string>
-		<string>Eth</string>
-		<string>E</string>
-		<string>Eacute</string>
-		<string>Ecircumflex</string>
-		<string>Edieresis</string>
-		<string>Egrave</string>
-		<string>F</string>
-		<string>G</string>
-		<string>H</string>
-		<string>I</string>
-		<string>Iacute</string>
-		<string>Icircumflex</string>
-		<string>Idieresis</string>
-		<string>Igrave</string>
-		<string>J</string>
-		<string>K</string>
-		<string>L</string>
-		<string>Lslash</string>
-		<string>M</string>
-		<string>N</string>
-		<string>Ntilde</string>
-		<string>O</string>
-		<string>Oacute</string>
-		<string>Ocircumflex</string>
-		<string>Odieresis</string>
-		<string>Ograve</string>
-		<string>Oslash</string>
-		<string>Otilde</string>
-		<string>OE</string>
-		<string>P</string>
-		<string>Thorn</string>
-		<string>Q</string>
-		<string>R</string>
-		<string>S</string>
-		<string>Scaron</string>
-		<string>T</string>
-		<string>U</string>
-		<string>Uacute</string>
-		<string>Ucircumflex</string>
-		<string>Udieresis</string>
-		<string>Ugrave</string>
-		<string>V</string>
-		<string>W</string>
-		<string>X</string>
-		<string>Y</string>
-		<string>Yacute</string>
-		<string>Ydieresis</string>
-		<string>Z</string>
-		<string>Zcaron</string>
-		<string>Delta</string>
-		<string>Omega</string>
 	</array>
 </dict>
 </plist>
