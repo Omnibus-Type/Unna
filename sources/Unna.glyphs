@@ -29,10 +29,18 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = vendorID;
+value = OMNI;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2015-01-29 04:12:28 +0000";
-designer = "Jorge de Buen U.";
+designer = "Jorge de Buen Unna";
 designerURL = "http://www.omnibus-type.com";
 familyName = Unna;
 featurePrefixes = (
@@ -168,7 +176,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 885;
+value = 883;
 },
 {
 name = winDescent;
@@ -243,7 +251,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 885;
+value = 883;
 },
 {
 name = winDescent;
