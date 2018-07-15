@@ -7,7 +7,7 @@
 
 ![Sample of Unna Family.](Unna.gif "Unna Family")
 
-####Unna Family contains:
+#### Unna Family contains:
 * regular/italic
 * bold/bolditalic
 
@@ -16,7 +16,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 ### Designers
 
 * Jorge de Buen
-* Pablo Cosgaya and Nicolas Silva [italic version]
+* Pablo Cosgaya and Nicolás Silva [italic version]
 
 ### License
 
@@ -45,7 +45,7 @@ This information should be distributed along with the Unna fonts and any derivat
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**28 Jan 2015 (Nicolas Silva) Unna regular, italic, bold and bolditalic v.2.006**  
+**28 Jan 2015 (Nicolás Silva) Unna regular, italic, bold and bolditalic v.2.006**  
 - Removed Reserve Font Name from the license
 - Name tables adjusted
 - fsType Installable Mode
@@ -54,7 +54,7 @@ This information should be distributed along with the Unna fonts and any derivat
 - Added Family Alignment Zones
 - New Verical Metrics
 
-**11 Jun 2014 (Nicolas Silva) Unna regular, italic, bold and bolditalic v.2.005**
+**11 Jun 2014 (Nicolás Silva) Unna regular, italic, bold and bolditalic v.2.005**
 - Redrew numbers and other glyphs:  
     - onenehalf, onequarter, threequarters, florin, percent, perthousand, product, summation, copyright, estimated, literSign, registered.
 - Improved kerning in Uppercase next to lowercases
@@ -114,7 +114,7 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **W:** http://www.ikern.com  
 **D:** Spacing and Kerning  
 
-**N:** **Nicolas Silva**  
+**N:** **Nicolás Silva**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development  
