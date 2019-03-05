@@ -20,7 +20,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com).
+Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com).
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -32,9 +32,9 @@ This information should be distributed along with the Unna fonts and any derivat
 
 ### Unna is a typeface family that supports Unicode language range: 
 
-* Basic Latin 				U+0020-U+007E
+* Basic Latin 			U+0020-U+007E
 * Latin-1 Supplement 		U+00A0-U+00FF
-* Latin Extended-A 			U+0100-U+017F
+* Latin Extended-A 		U+0100-U+017F
 
 **Character map to support MS Codepages:**
 * 1252 Latin-1
@@ -45,7 +45,11 @@ This information should be distributed along with the Unna fonts and any derivat
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**28 Jan 2015 (Nicolás Silva) Unna regular, italic, bold and bolditalic v.2.006**  
+**31 October 2018 (Omnibus-Type) Unna v.2.008**
+- Updated to GF Latin Plus set
+- Supports 219 Latin languages used in 212 countries
+
+**28 Jan 2015 (Omnibus-Type) Unna regular, italic, bold and bolditalic v.2.006**  
 - Removed Reserve Font Name from the license
 - Name tables adjusted
 - fsType Installable Mode
@@ -54,7 +58,7 @@ This information should be distributed along with the Unna fonts and any derivat
 - Added Family Alignment Zones
 - New Verical Metrics
 
-**11 Jun 2014 (Nicolás Silva) Unna regular, italic, bold and bolditalic v.2.005**
+**11 Jun 2014 (Omnibus-Type) Unna regular, italic, bold and bolditalic v.2.005**
 - Redrew numbers and other glyphs:  
     - onenehalf, onequarter, threequarters, florin, percent, perthousand, product, summation, copyright, estimated, literSign, registered.
 - Improved kerning in Uppercase next to lowercases
@@ -63,7 +67,7 @@ This information should be distributed along with the Unna fonts and any derivat
 - TTF Autohint 1.0
 - Optimized TTF curves
 
-**25 Dec 2013 (Nicolas Silva) Unna regular and italic v.2.004**
+**25 Dec 2013 (Omnibus-Type) Unna regular and italic v.2.004**
 - Drew italic lowercase versions
 - Expanded character map to support Unicode language ranges:
 
@@ -112,14 +116,19 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **N:** **Igino Marini**  
 **E:** mail@iginomarini.com  
 **W:** http://www.ikern.com  
-**D:** Spacing and Kerning  
-
-**N:** **Nicolás Silva**  
-**E:** omnibus.type@gmail.com  
-**W:** http://www.omnibus-type.com  
-**D:** Typeface development  
+**D:** Spacing and Kerning
 
 **N:** **Jorge de Buen**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer
+
+**N:** **Nicolás Silva**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Typeface development
+
+**N:** **Yorlmar Campos**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Typeface development 

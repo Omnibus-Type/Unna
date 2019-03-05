@@ -22,16 +22,16 @@ ChangeLog
 2016, Dec 6 (Marc Foley) Unna family v2.007
 - Unna v2.007 released
 
-2015, Jan 28 (Nicolas Silva) Unna family v.2.006  
+2015, Jan 28 (Omnibus-Type) Unna family v.2.006  
 - Removed Reserve Font Name from the license
 - Name tables adjusted
 - fsType Installable Mode
 - Set Panose values
 - Updates CFF and TTF hinting
 - Added Family Alignment Zones
-- New Verical Metrics
+- New Vertical Metrics
 
-2014, Jun 11 (Nicolas Silva) Unna rfamily v.2.005
+2014, Jun 11 (Omnibus-Type) Unna rfamily v.2.005
 - Redrew numbers and other glyphs:
 	onehalf
 	onequarter
@@ -52,7 +52,7 @@ ChangeLog
 - Optimized TTF curves
 
 
-2013, Dec 25 (Nicolas Silva) Unna regular and italic v.2.004
+2013, Dec 25 (Omnibus-Type) Unna regular and italic v.2.004
 - Drew italic lowercase versions
 - Expanded character map to support Unicode language ranges:
 	Basic Latin 				U+0020-U+007E
@@ -93,13 +93,15 @@ email (E), web-address (if you have one) (W) and
 description (D). This list is in alphabetical order.
 
 N: Jorge de Buen
-D: Designer
-
-N: Nicolas Silva
 E: omnibus.type@gmail.com
 W: http://www.omnibus-type.com
-D: Typeface development
+D: Designer
 
 N: Marc Foley
 E: m.foley.88@gmail.com
 D: Engineer
+
+N: Nicolás Silva
+E: omnibus.type@gmail.com
+W: http://www.omnibus-type.com
+D: Typeface development

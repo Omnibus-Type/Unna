@@ -9,9 +9,8 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Omnibus-Type <Omnibus-Type@users.noreply.github.com>
-nsilva-Omnibus-Type <nsilva.design@gmail.com>
-Omnibus-Type <omnibus.type@gmail.com>
-Nicolas-iMac-Omnibus-Type <omnibus.type@gmail.com>
+Igino Marini <mail@iginomarini.com>
 Marc Foley <m.foley.88@gmail.com>
+Nicolás Silva<omnibus.type@gmail.com>
+Omnibus-Type <omnibus.type@gmail.com>
 Yorlmar Campos <omnibus.type@gmail.com>
