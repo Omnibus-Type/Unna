@@ -5,7 +5,8 @@
 
 [Omnibus Type](http://omnibus-type.com/) presents a new font: Unna. Her soft look is expressed through delicated serifs and strong stems, that accentuating the typical neoclassical vertical texture. Unna is the surname of the mother of the type designer, Jorge de Buen.
 
-![Sample of Unna Family.](Unna.gif "Unna Family")
+![Sample of Unna Family.](sources/Unna-01.png "Unna Family")
+![Sample of Unna Family.](sources/Unna-02.png "Unna Family")
 
 #### Unna Family contains:
 * regular/italic
