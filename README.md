@@ -9,8 +9,10 @@
 ![Sample of Unna Family.](sources/Unna-02.png "Unna Family")
 
 #### Unna Family contains:
-* regular/italic
-* bold/bolditalic
+* light / light italic
+* regular / italic
+* medium / medium italic
+* bold / bold italic
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
