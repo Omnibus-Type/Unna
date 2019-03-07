@@ -49,6 +49,7 @@ This information should be distributed along with the Unna fonts and any derivat
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
 **31 October 2018 (Omnibus-Type) Unna v.2.008**
+- New weights: light, light italic, medium and medium italic
 - Updated to GF Latin Plus set
 - Supports 219 Latin languages used in 212 countries
 
