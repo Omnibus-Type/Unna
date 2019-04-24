@@ -6,11 +6,7 @@ and any derivative works.
 
 Basic Font Information
 
-Omnibus Type presents a new font: Unna. Her soft look is 
-expressed through delicated serifs and strong stems, that 
-accentuating the typical neoclassical vertical texture. 
-Unna is the surname of the mother of the type designer, 
-Jorge de Buen.
+Unna is a transitional typeface, with 4 weight variants, plus matching italics. Its visual character has a neoclassical vertical texture, but Unna shows its own tenderness, through delicate serifs and strong stems. Therefore it is great for literature books. It was designed by Jorge de Buen, who was inspired by his mother’s surname, and developed by the Omnibus-Type Team.
 
 Unna is a Unicode typeface family that supports languages that
 use the Latin script and its variants, and could be expanded 
@@ -18,6 +14,11 @@ to support other scripts.
 
 
 ChangeLog
+
+2018, Oct 31 (Omnibus-Type) Unna family v.2.008
+- New weights: light, light italic, medium and medium italic
+- Updated to GF Latin Plus set
+- Supports 219 Latin languages used in 212 countries
 
 2016, Dec 6 (Marc Foley) Unna family v2.007
 - Unna v2.007 released

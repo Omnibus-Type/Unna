@@ -1,9 +1,11 @@
 # Unna family
 
-**Omnibus-Type**  
+**De Buen & Omnibus-Type Team**
 *SIL Open Font License, 1.1*
+*8 fonts, 844 glyphs each variant*
+*Tipos Latinos 2012*
 
-[Omnibus Type](http://omnibus-type.com/) presents a new font: Unna. Her soft look is expressed through delicated serifs and strong stems, that accentuating the typical neoclassical vertical texture. Unna is the surname of the mother of the type designer, Jorge de Buen.
+Unna is a transitional typeface, with 4 weight variants, plus matching italics. Its visual character has a neoclassical vertical texture, but Unna shows its own tenderness, through delicate serifs and strong stems. Therefore it is great for literature books. It was designed by Jorge de Buen, who was inspired by his mother’s surname, and developed by the Omnibus-Type Team.
 
 ![Sample of Unna Family.](sources/Unna-01.png "Unna Family")
 ![Sample of Unna Family.](sources/Unna-02.png "Unna Family")
@@ -35,8 +37,8 @@ This information should be distributed along with the Unna fonts and any derivat
 
 ### Unna is a typeface family that supports Unicode language range: 
 
-* Basic Latin 			U+0020-U+007E
-* Latin-1 Supplement 		U+00A0-U+00FF
+* Basic Latin 			  U+0020-U+007E
+* Latin-1 Supplement  U+00A0-U+00FF
 * Latin Extended-A 		U+0100-U+017F
 
 **Character map to support MS Codepages:**
@@ -48,10 +50,13 @@ This information should be distributed along with the Unna fonts and any derivat
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**31 October 2018 (Omnibus-Type) Unna v.2.008**
+**31 Oct 2018 (Omnibus-Type) Unna family v.2.008**
 - New weights: light, light italic, medium and medium italic
 - Updated to GF Latin Plus set
 - Supports 219 Latin languages used in 212 countries
+
+**6 Dec 2016 (Marc Foley) Unna family v2.007**
+- Unna v2.007 released
 
 **28 Jan 2015 (Omnibus-Type) Unna regular, italic, bold and bolditalic v.2.006**  
 - Removed Reserve Font Name from the license
