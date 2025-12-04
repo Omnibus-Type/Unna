@@ -5,6 +5,7 @@ axisOrder:
   - wght
   - ital
 buildVariable: true
+cleanUp: true
 familyName: Unna
 stat:
   Unna[wght].ttf:
