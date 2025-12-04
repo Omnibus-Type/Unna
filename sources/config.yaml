@@ -1,20 +1,16 @@
 sources:
-  - Afacad.glyphs
-  - Afacad-Italic.glyphs
+  - Unna.glyphs
+  - Unna-Italic.glyphs
 axisOrder:
   - wght
   - ital
-familyName: Afacad
-outputDir: "../fonts/Afacad"
+buildVariable: true
+familyName: Unna
 stat:
-  Afacad[wght].ttf:
+  Unna[wght].ttf:
   - name: Weight
     tag: wght
     values:
-    - name: Thin
-      value: 100
-    - name: ExtraLight
-      value: 200
     - name: Light
       value: 300
     - name: Regular
@@ -27,12 +23,6 @@ stat:
       value: 600
     - name: Bold
       value: 700
-    - name: ExtraBold
-      value: 800
-    - name: Black
-      value: 900
-    - name: ExtraBlack
-      value: 1000
   - name: Italic
     tag: ital
     values:
@@ -40,14 +30,10 @@ stat:
       value: 0
       linkedValue: 1
       flags: 2
-  Afacad-Italic[wght].ttf:
+  Unna-Italic[wght].ttf:
   - name: Weight
     tag: wght
     values:
-    - name: Thin
-      value: 100
-    - name: ExtraLight
-      value: 200
     - name: Light
       value: 300
     - name: Regular
@@ -60,12 +46,6 @@ stat:
       value: 600
     - name: Bold
       value: 700
-    - name: ExtraBold
-      value: 800
-    - name: Black
-      value: 900
-    - name: ExtraBlack
-      value: 1000
   - name: Italic
     tag: ital
     values:
