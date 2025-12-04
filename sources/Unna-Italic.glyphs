@@ -1,8 +1,5 @@
 {
 .appVersion = "3506";
-DisplayStrings = (
-A
-);
 classes = (
 {
 automatic = 1;
@@ -724,6 +721,15 @@ value = -269;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
 }
 );
 descender = -269;
@@ -792,6 +798,15 @@ value = -269;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
 }
 );
 descender = -269;
@@ -859,6 +874,15 @@ value = -269;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
 }
 );
 descender = -269;
@@ -14780,7 +14804,7 @@ name = U;
 },
 {
 name = dieresiscomb_acutecomb.case;
-transform = "{1, 0, 0, 1, 478, 0}";
+transform = "{1, 0, 0, 1, 477, 0}";
 }
 );
 layerId = "6E1F4822-938D-406D-B3C9-5D869F42D31A";
@@ -14825,7 +14849,7 @@ name = U;
 },
 {
 name = dieresiscomb_caroncomb.case;
-transform = "{1, 0, 0, 1, 478, 0}";
+transform = "{1, 0, 0, 1, 477, 0}";
 }
 );
 layerId = "6E1F4822-938D-406D-B3C9-5D869F42D31A";
@@ -14870,7 +14894,7 @@ name = U;
 },
 {
 name = dieresiscomb_gravecomb.case;
-transform = "{1, 0, 0, 1, 478, 0}";
+transform = "{1, 0, 0, 1, 477, 0}";
 }
 );
 layerId = "6E1F4822-938D-406D-B3C9-5D869F42D31A";
@@ -86576,6 +86600,15 @@ customParameters = (
 {
 name = Filter;
 value = "RemoveOverlap;";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
 }
 );
 interpolationWeight = 55;
@@ -86593,6 +86626,15 @@ customParameters = (
 {
 name = Filter;
 value = "RemoveOverlap;";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
 }
 );
 interpolationWeight = 75;
@@ -86607,6 +86649,15 @@ customParameters = (
 {
 name = Filter;
 value = "RemoveOverlap;";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
 }
 );
 interpolationWeight = 95;
@@ -86624,6 +86675,15 @@ customParameters = (
 {
 name = Filter;
 value = "RemoveOverlap;";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
 }
 );
 interpolationWeight = 110;
@@ -86641,6 +86701,15 @@ customParameters = (
 {
 name = Filter;
 value = "RemoveOverlap;";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
 }
 );
 interpolationWeight = 120;
