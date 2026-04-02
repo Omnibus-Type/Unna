@@ -1,7 +1,7 @@
 {
 .appVersion = "3516";
 DisplayStrings = (
-"*/space {}\"'¢/colonsign/dong/guarani/lira £/won \012/integral/partialdiff @§©/published/trademark/daggerdbl/numero \012\012/breveacute/breveacute.case/brevegrave/brevegrave.case/circumflexacute/circumflexacute.case/circumflexgrave/circumflexgrave.case/dieresisacute/dieresisacute.case/dieresisgrave/dieresisgrave.case/dieresismacron/dieresismacron.case/dotaccentmacron/dotaccentmacron.case/ringacute/ringacute.case"
+"\012/integral/partialdiff @§©/published/trademark/daggerdbl/numero \012\012/breveacute/breveacute.case/brevegrave/brevegrave.case/circumflexacute/circumflexacute.case/circumflexgrave/circumflexgrave.case/dieresisacute/dieresisacute.case/dieresisgrave/dieresisgrave.case/dieresismacron/dieresismacron.case/dotaccentmacron/dotaccentmacron.case/ringacute/ringacute.case"
 );
 classes = (
 {
