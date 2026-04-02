@@ -7,8 +7,8 @@
 
 Unna is a transitional typeface, with 4 weight variants, plus matching italics. Its visual character has a neoclassical vertical texture, but Unna shows its own tenderness, through delicate serifs and strong stems. Therefore it is great for literature books. It was designed by Jorge de Buen, who was inspired by his mother’s surname, and developed by the Omnibus-Type Team.
 
-![Sample of Unna Family.](sources/Unna-01.png "Unna Family")
-![Sample of Unna Family.](sources/Unna-02.png "Unna Family")
+![Sample of Unna Family.](documentation/Unna-01.png "Unna Family")
+![Sample of Unna Family.](documentation/Unna-02.png "Unna Family")
 
 #### Unna Family contains:
 * light / light italic
